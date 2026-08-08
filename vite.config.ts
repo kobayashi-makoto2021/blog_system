@@ -5,6 +5,7 @@ import { resolve } from 'path'
 export default defineConfig({
   base: '/admin/',
   plugins: [react()],
+  base: '/admin/',
   build: {
     outDir: 'dist/admin',
     emptyOutDir: true,

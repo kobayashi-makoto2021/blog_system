@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "test-blog-ca5a7",
+    "site": "ijime-manuals-blog",
     "public": "dist",
     "ignore": ["firebase.json", "**/.*"],
     "rewrites": [

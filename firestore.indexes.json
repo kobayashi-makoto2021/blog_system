@@ -9,6 +9,17 @@
       ]
     },
     {
+<<<<<<< Updated upstream
+=======
+      "collectionGroup": "posts",
+      "queryScope": "COLLECTION",
+      "fields": [
+        { "fieldPath": "authorId", "order": "ASCENDING" },
+        { "fieldPath": "updatedAt", "order": "DESCENDING" }
+      ]
+    },
+    {
+>>>>>>> Stashed changes
       "collectionGroup": "comments",
       "queryScope": "COLLECTION",
       "fields": [
